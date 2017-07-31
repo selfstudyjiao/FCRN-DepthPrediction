@@ -98,9 +98,11 @@ ENV/
 # mypy
 .mypy_cache/
 
-.png
-.jpg
+*.png
+*.jpg
 
-.npy
+*.npy
 tensorflow/Images
+tensorflow/series
+tensorflow/output
 NYU_ResNet-UpProj.npy
